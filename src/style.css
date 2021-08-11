@@ -1,0 +1,15 @@
+.title {
+  color: brown;
+  font-size: smaller;
+}
+
+.red {
+  width: 100px;
+  border-radius: 50px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
